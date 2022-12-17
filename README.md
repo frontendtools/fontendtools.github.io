@@ -1,2 +1,2 @@
 # front-end tools
-[VISIT WEBPAGE](https://frontendtools.github.io/)
+[VISIT WEBPAGE](https://murtazajoo.github.io/tools)
